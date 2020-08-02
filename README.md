@@ -15,10 +15,20 @@ Collection for the collected information according the Das Keyboard x50q communi
 
 ## Other Perceptions
 
+
+### Profile IRP packet
+
+* Common Bytes 0-1
+1b 00
+
 | Profile | Bytes 2-5 |
 | --- | --- |
 | red | 60 2a 80 98 |
 | blue | 20 4a ca 97 |
 | green | 80 c9 1b 97 |
 
+* Common 6-29
+85 ad ff ff 00 00 00 00 09 00 00 01 00 02 00 03 01 40 00 00 00 07 0f 06
 
+* fill
+00 30-90
