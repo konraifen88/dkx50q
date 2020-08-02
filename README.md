@@ -28,4 +28,15 @@ Collection for the collected information according the Das Keyboard x50q communi
 
 * Common 6-29 = 85 ad ff ff 00 00 00 00 09 00 00 01 00 02 00 03 01 40 00 00 00 07 0f 06
 
-* fill 30-90 = 00
+* 30-90 = 00
+
+### Left Ctrl
+
+* 0-1 = 1b 00
+
+| Left Ctrl | 2-5 |
+| white | 60 6a d4 98 |
+| red | 20 ca 1c 98 |
+| green | 60 1a ac 98 |
+
+
