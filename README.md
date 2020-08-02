@@ -39,4 +39,9 @@ Collection for the collected information according the Das Keyboard x50q communi
 | red | 20 ca 1c 98 |
 | green | 60 1a ac 98 |
 
+* Common 6-29 = 85 ad ff ff 00 00 00 00 09 00 00 01 00 02 00 03 01 40 00 00 00 07 0f 06
+which is the same as the profile packet.
+
+* 30-90 = 00
+
 
