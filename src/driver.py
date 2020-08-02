@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
 
 import usb1
+import usb.core
+
+VENDOR_ID = 0x24f0
+PRODUCT_ID = 0x202b
 
 class usbDriver():
     
-    PRODUCT_ID = 0x24f0
-    VENDOR_ID = '202b'
 
     def __init__(self):
         # connect
@@ -32,7 +34,9 @@ class usbDriver():
             usb1.HOTPLUG_EVENT_DEVICE_LEFT: 'left',}[event],device,))
 
     def connect(self):
-        print('TODO: Connect.')
+        self.dev = usb.core.find(idVendor=VENDOR_ID,idProduct=PRODUCT_ID)
+        self.cfg = self.dev.get_active_configuration()
+        print(self.cfg.interfaces())
 
     def list(self):
         # currently just lists all, will add just kb later
@@ -50,3 +54,6 @@ if __name__ == '__main__':
     
     # Register hotplug
     #driver.hotplug_register()
+    
+    # Connect
+    driver.connect()
