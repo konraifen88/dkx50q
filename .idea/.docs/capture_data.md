@@ -1,0 +1,3 @@
+# How the data was captured
+
+TODO...
