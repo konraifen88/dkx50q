@@ -45,8 +45,4 @@ Collection for the collected information according the Das Keyboard x50q communi
 * 30-90 = 00
 
 ### Connection
-* 0000   1c 00 60 1a ac 98 85 ad ff ff 00 00 00 00 0b 00   ..`.............
-* 0010   00 01 00 02 00 80 02 08 00 00 00 00 80 06 00 01   ................
-* 0020   00 00 12 00                                       ....
-
-
+1c 00 60 1a ac 98 85 ad ff ff 00 00 00 00 0b 00 00 01 00 02 00 80 02 08 00 00 00 00 80 06 00 01 00 00 12 00
