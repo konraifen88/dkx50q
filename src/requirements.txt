@@ -1,10 +1,5 @@
-Package       Version    
-------------- -----------
-atpublic      2.0        
-libusb        1.0.22b9   
-libusb1       1.8        
-pip           20.0.2     
-pkg-resources 0.0.0      
-pyusb         1.0.2      
-setuptools    44.0.0     
-usb           0.0.83.dev0
+atpublic==2.0
+libusb==1.0.22b9
+libusb1==1.8
+pyusb==1.0.2
+usb==0.0.83.dev0
