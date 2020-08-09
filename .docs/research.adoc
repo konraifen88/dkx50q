@@ -4,6 +4,6 @@ All results according the communication of the Operating System (OS) with the Da
 
 == Content
 
-1. link:acronyms.adoc[Acronyms and Glossaries]
-2. link:dump.adoc[Creating a dump]
+1. link:01_acronyms.adoc[Acronyms and Glossaries]
+2. link:02_creating_a_dump.adoc[Creating a dump]
 3. Results
