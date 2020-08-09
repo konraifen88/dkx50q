@@ -1,0 +1,9 @@
+= Single Key Dump
+
+This dumps contains the color change of the left ctrl key.
+
+== Other Settings
+
+* Keyboard Layout: de-DE
+* Background Color: Green - R:0, G:255, B:0
+* OS: Win 10 64 bit

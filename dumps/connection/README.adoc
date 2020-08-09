@@ -1,0 +1,4 @@
+= Connecting Device Dump
+
+Dump created during binding device into VirtualBox.
+This dump should contain the first connection of the os and the initial setting of the green profile.

@@ -1,0 +1,21 @@
+= Collected Dumps
+
+This folder contains various dumps made using wireshark while changing the background color of the X50Q.
+
+== How the dumps were made
+
+All the dumps were created in a Virtual Machine using Oracle VirtualBox.
+The following software must be installed to be able to create dumps.
+
+* Windows 10 Pro Ver. 2004
+* Das Keyboard Q Software
+* Wireshark with installed USBPcap
+
+== Default settings of the dumps
+
+* OS
+** Language: German
+* Keyboard
+** Layout: de_DE
+** Color:
+*** RGB Profile green (R: 0, G: 255, B: 0)

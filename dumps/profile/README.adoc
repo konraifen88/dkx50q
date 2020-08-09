@@ -1,0 +1,8 @@
+= Profile Dump
+
+This dumps contain the traffic that is done while changing to another profile.
+
+=== Other settings
+
+* Keyboard Layout: de-DE
+* OS: Win 10 64 bit
