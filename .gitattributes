@@ -1,3 +1,7 @@
 * text=auto
 
 *.pcapng binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary

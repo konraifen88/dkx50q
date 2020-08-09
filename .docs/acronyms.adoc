@@ -1,0 +1,31 @@
+= Acronyms and Glossaries
+
+////
+Simply add a new line as follows
+|Acronym
+|The full name
+| Description
+////
+
+.acronyms
+[%header,cols="1,2,4"]
+|===
+|Acronym |Full Name | Description
+
+|OS
+|Operating System
+|-
+
+|DK
+|Das Keyboard
+|Producer of a really great keyboard without linux or mac support and really shitty builtin color presets (Honestly, each built-in profile shows all your typed passwords to everyone...)
+
+|VM
+|Virtual Machine
+|An virtually running Operating System (e.g. running Windows 10 inside Oracle VirtualBox)
+
+|X50Q, X50
+|Das Keyboard X50Q
+|Concrete Product that is handled in this repository
+
+|===
